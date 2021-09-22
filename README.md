@@ -1,3 +1,3 @@
 # Test
 
-Dies ist ein Texte
+Die ist ein git Repository zum Text
